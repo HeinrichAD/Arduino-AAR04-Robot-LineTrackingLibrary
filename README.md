@@ -32,4 +32,4 @@ In short, copy the library files to your library folder, restart your Arduino ID
 
 ## LICENSE
 GNU General Public License v3.0<br />
-For more information see LICENSE file.
+For more information see [LICENSE](/LICENSE) file.
