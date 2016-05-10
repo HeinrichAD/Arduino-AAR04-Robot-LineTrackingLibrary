@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization 
+# http://stackoverflow.com/a/10855862
+# https://help.github.com/articles/dealing-with-line-endings/
+
+*               text=auto
+
+*.ino           text filter=space-tab
+*.h             text filter=space-tab
+*.cpp           text filter=space-tab
